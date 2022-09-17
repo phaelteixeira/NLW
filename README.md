@@ -6,13 +6,13 @@
 
 Projeto construido no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar](https://phaelteixeira.github.io/nlw-esports-explorer)
+:link:[Clique aqui para acessar](https://phaelteixeira.github.io/nlw-esports-explorer)
 
-## Tecnologias
+## :gear: Tecnologias
 
  - HTML
  - CSS
  - Git
 
-## Contato
+## :mailbox: Contato
   teixeira.rapha2007@gmail.com
